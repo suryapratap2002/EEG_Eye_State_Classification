@@ -26,3 +26,5 @@ The project includes a single Jupyter Notebook containing data loading, preproce
 ## Integration with Digital Twin (Optional)
 
 This model can be integrated into a Digital Twin system representing a real-time avatar of a human operator, driver, or pilot. EEG signals from wearable sensors can be streamed into the twin, which processes the signals using the trained classifier. In the event of detected eye closure or signs of fatigue, the Digital Twin can trigger alerts, activate safety protocols, or log the incident for further review, thereby enhancing situational awareness and safety in high-risk environments.
+
+Dataset :- "https://www.google.com/url?q=https%3A%2F%2Farchive.ics.uci.edu%2Fdataset%2F264%2Feeg%2Beye%2Bstate"
